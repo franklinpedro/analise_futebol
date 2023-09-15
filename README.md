@@ -1,2 +1,3 @@
 # análise de futebol
-analisando tendências de gols na premiere league nas últimas cinco temporadas.
+
+este projeto analisará informações sobre os gols das equipes de futebol masculino do reino unido (premier league), itália (serie a) e espanha (la liga). vamos examinar as tendências de pontuação dos últimos cinco anos e compará-las entre as três ligas.
